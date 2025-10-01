@@ -1,25 +1,19 @@
 # 🇴 Jogo da Velha 🇽
 
 <div align="center">
-<img src="https://github.com/portfolio-projetos-dev/jogo-da-velha/raw/main/.gitassets/capa.png" width="350" />
+<img src="https://github.com/gabscarlos/jogo-da-velha-dinamico/raw/main/.gitassets/capa.png" width="350" />
+
 
 <div data-badges>
-    <img src="https://img.shields.io/github/stars/portfolio-projetos-dev/jogo-da-velha?style=for-the-badge" alt="GitHub stars" />
-    <img src="https://img.shields.io/github/forks/portfolio-projetos-dev/jogo-da-velha?style=for-the-badge" alt="GitHub forks" />
-    <img src="https://img.shields.io/github/issues/portfolio-projetos-dev/jogo-da-velha?style=for-the-badge" alt="GitHub issues" />
-</div>
-
-<div data-badges>
-    <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" />
 </div>
 </div>
 
-O projeto Jogo da Velha é uma aplicação que apresenta o clássico jogo da velha com um diferencial: um sistema de contagem de vitórias para os jogadores X e O. A cada partida concluída, o placar é atualizado automaticamente, permitindo que os jogadores acompanhem o desempenho de cada lado ao longo das rodadas.
+O projeto Jogo da Velha é uma aplicação que apresenta o clássico jogo da velha com um diferencial: um tabuleiro dinâmico onde os jgadores podem escolher o tamanho do tabuleir
 
-Com uma interface intuitiva e minimalista, o projeto é ideal para partidas rápidas e competitivas entre amigos ou familiares. O projeto também inclui a opção de reiniciar o placar a qualquer momento, garantindo que novas competições possam começar do zero.
+Com uma interface intuitiva e minimalista, o projeto é ideal para partidas rápidas e competitivas entre amigos ou familiares. O projeto também inclui a opção de reiniciar a partida a qualquer momento, garantindo que novas competições possam começar do zero.
 
 ## 🖥️ Como rodar este projeto 🖥️
 
@@ -32,7 +26,7 @@ Com uma interface intuitiva e minimalista, o projeto é ideal para partidas ráp
 1. Clone este repositório:
 
    ```sh
-   git clone https://github.com/portfolio-projetos-dev/jogo-da-velha
+   git clone https://github.com/gabscarlos/jogo-da-velha-dinamico
    ```
 
 2. Acesse o diretório do projeto:
@@ -41,30 +35,17 @@ Com uma interface intuitiva e minimalista, o projeto é ideal para partidas ráp
    cd jogo-da-velha
    ```
 
-3. Instale as dependências:
-
-   ```sh
-   npm install
-   ```
-
-4. Inicie o servidor (Next.js):
-
-   ```sh
-   npm run dev
-   ```
-
-5. Acesse o projeto em [http://localhost:3000](http://localhost:3000).
+3. Abra o arquivo index.html clicando duas vezes sobre ele.
 
 ## 🗒️ Features do projeto 🗒️
 
 - Interface simples e funcional para partidas tradicionais de jogo da velha.
-- Sistema automático que registra e exibe o número de vitórias do jogador X, do jogador O e empates.
-- Opção para zerar o contador de vitórias e empates, iniciando uma nova competição do zero.
+- Tabuleiro dinâmico podendo escolher seu tamanho.
+- Opção para reiniciar a partida, iniciando uma nova competição do zero.
 - Indica claramente o vencedor da partida (X ou O) ou informa se houve empate.
 
-![](https://github.com/portfolio-projetos-dev/jogo-da-velha/raw/main/.gitassets/2.jpg)
+![](https://github.com/gabscarlos/jogo-da-velha-dinamico/raw/main/.gitassets/2.jpg)
 
 ## 💎 Links úteis 💎
 
-- [Next.js](https://nextjs.org/docs)
-- [TypeScript](https://www.typescriptlang.org/docs)
+- [Jogar Jogo da Velha](https://gabscarlos.github.io/jogo-da-velha-dinamico/)
