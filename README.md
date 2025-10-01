@@ -48,4 +48,4 @@ Com uma interface intuitiva e minimalista, o projeto é ideal para partidas ráp
 
 ## 💎 Links úteis 💎
 
-- [Jogar Jogo da Velha](https://gabscarlos.github.io/jogo-da-velha-dinamico/)
+- <a href="https://gabscarlos.github.io/jogo-da-velha-dinamico/" target="_blank">Jogar Jogo da Velha</a>
