@@ -1,51 +1,54 @@
 # 🇴 Jogo da Velha 🇽
 
 <div align="center">
-<img src="https://github.com/gabscarlos/jogo-da-velha-dinamico/raw/main/.gitassets/capa.png" width="350" />
-
-
-<div data-badges>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" />
-</div>
+  <img src="https://github.com/gabscarlos/jogo-da-velha-dinamico/raw/main/.gitassets/capa.png" width="350" />
 </div>
 
-O projeto Jogo da Velha é uma aplicação que apresenta o clássico jogo da velha com um diferencial: um tabuleiro dinâmico onde os jgadores podem escolher o tamanho do tabuleir
+<div align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
 
-Com uma interface intuitiva e minimalista, o projeto é ideal para partidas rápidas e competitivas entre amigos ou familiares. O projeto também inclui a opção de reiniciar a partida a qualquer momento, garantindo que novas competições possam começar do zero.
+---
 
-## 🖥️ Como rodar este projeto 🖥️
+## 🎮 Sobre o projeto
 
-### Requisitos:
+O **Jogo da Velha** traz uma versão moderna e dinâmica do clássico jogo entre **X** e **O**.  
+Com um **tabuleiro personalizável**, o jogador pode escolher o tamanho da grade e testar novas estratégias em cada partida.  
+A interface é simples, fluida e perfeita para partidas rápidas entre amigos ou familiares.
 
-- [Node.js](https://nodejs.org/pt) instalado
+---
 
-### Execução:
+## ✨ Destaques
 
-1. Clone este repositório:
+- 🔲 Tabuleiro dinâmico com tamanho ajustável  
+- 🧠 Indicação automática de vencedor ou empate  
+- 🔄 Reinício rápido para novas partidas  
+- 💡 Visual minimalista e responsivo  
 
-   ```sh
-   git clone https://github.com/gabscarlos/jogo-da-velha-dinamico
-   ```
+---
 
-2. Acesse o diretório do projeto:
+<div align="center">
+  <img src="https://github.com/gabscarlos/jogo-da-velha-dinamico/raw/main/.gitassets/2.jpg" width="80%" />
+</div>
 
-   ```sh
-   cd jogo-da-velha
-   ```
+---
 
-3. Abra o arquivo index.html clicando duas vezes sobre ele.
+## 🚀 Experimente agora
 
-## 🗒️ Features do projeto 🗒️
+👉 **[Jogar Jogo da Velha](https://gabscarlos.github.io/jogo-da-velha-dinamico/)**  
 
-- Interface simples e funcional para partidas tradicionais de jogo da velha.
-- Tabuleiro dinâmico podendo escolher seu tamanho.
-- Opção para reiniciar a partida, iniciando uma nova competição do zero.
-- Indica claramente o vencedor da partida (X ou O) ou informa se houve empate.
+---
 
-![](https://github.com/gabscarlos/jogo-da-velha-dinamico/raw/main/.gitassets/2.jpg)
+## 🧠 Tecnologias utilizadas
 
-## 💎 Links úteis 💎
+- HTML5  
+- CSS3  
+- JavaScript  
 
-- <a href="https://gabscarlos.github.io/jogo-da-velha-dinamico/" target="_blank">Jogar Jogo da Velha</a>
+---
+
+<div align="center">
+  <sub>Projeto desenvolvido por <strong>Gabriel Carlos</strong> — veja mais em <a href="https://gabscarlos.github.io/" target="_blank">meu portfólio</a> 🎨</sub>
+</div>
